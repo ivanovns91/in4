@@ -110,5 +110,5 @@
 
 ## Контактная информация
 - Email: ivano4ns@gmail.com
-- LinkedIn: https://www.linkedin.com/in/username/
+- LinkedIn: https://www.linkedin.com/in/ivns91/
 
