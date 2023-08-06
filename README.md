@@ -46,7 +46,8 @@
 
 <p>Результат:<p>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%205.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/ivanovns91/in4/blob/main/project2">Запрос</a>
+> <a href="https://drive.google.com/file/d/18uAWd4hbQ8h0_VJW9c20ecP980tKr-XY/view?usp=sharing">Визуализация</a>
 
 ## Контактная информация
 - Email: ivano4ns@gmail.com
